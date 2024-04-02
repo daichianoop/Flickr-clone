@@ -1,0 +1,31 @@
+.footer {
+  background-color: black;
+  position: relative;
+  display: flex;
+  height: 57px;
+  align-items: center;
+  justify-content: space-between;
+}
+.social {
+  margin-right: 25px;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+}
+.social-img {
+  width: 25px;
+}
+.nav {
+  background-color: black;
+  border: none;
+  color: rgb(137, 137, 137);
+  font-size: 14px;
+  margin-right: 5px;
+}
+.navbar {
+  margin-left: 20px;
+}
+.nav:hover {
+  cursor: pointer;
+  color: white;
+}
